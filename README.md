@@ -6,20 +6,22 @@
 
 https://user-images.githubusercontent.com/MultiAgentPlatform/v%C3%ADdeos/Multi_Agent_Platform_Demo.mp4
 
+
+
 ## Links
 
 - Aplicação no Streamlit - [App Folder](https://github.com/lizmarques/Virtual_Assistant_Project/tree/master/VoiceBotProject)
 
 ## Objetivo
 
-O principal objetivo deste projeto foi ganhar familiaridade com as APIs de Speech Recognition e Text-to-Speech, além de desenvolver uma aplicação que funcionasse corretamente baseada em comandos de voz. Nesta primeira versão, a assistente virtual conta com 5 funcionalidades:
-- Agenda do Dia
-- Notícias
-- Bloco de Notas por Voz
-- Pesquisa no Google
-- Abrir o Microsoft Teams
-- Extra: Apresentação da Ártemis (nome dado para assistente virtual)
+O principal objetivo deste projeto foi explorar um pouco do framework LangChain e utilizar o Streamlit para criar uma mini plataforma com 3 agentes.
+
+- CSV Agent: através deste agente, o usuário pode extrair insights rapidamente de arquivos .csv, sem a necessidade de conhecimentos em programação. Neste caso, acabei utilizando o PandasAI (https://lnkd.in/dqqudmRt), no entanto, é possível utilizar o próprio agente csv do LangChain (https://lnkd.in/dDX_K5ab).
+
+- Website Agent: com a integração do Bing Search (https://lnkd.in/dMDrKaYF), é possível utilizar todo o conteúdo de um website como base de conhecimento para um chatbot. Neste exemplo, eu direcionei a pesquisa exclusivamente para o site da Dataside, mas você pode direcionar para o site que quiser.
+
+- Gmail Agent: utilizando o Gmail Toolkit (https://lnkd.in/djS8wrr4), também oferecido pelo LangChain, criei um agente que tem como objetivo otimizar a escrita de e-mails. Nesta aplicação, implementei tanto um recurso por voz quanto por texto.
 
 
  ## Próximos Passos
-- Permitir o upload de arquivos via Google Drive
+- Permitir o upload de arquivos via Google Drive no CSV Agent
