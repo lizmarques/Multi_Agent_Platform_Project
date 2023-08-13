@@ -2,14 +2,14 @@
 <p align="center"> <img width="100px" heigth="300px" src="MultiAgentPlatform/imagens/agent_logo.png">
 </p>
 
-## Demonstração da plataforma
+## [Vídeo] Demonstração da plataforma
 
 https://github.com/lizmarques/Multi_Agent_Platform_Project/assets/90876339/dc103338-8dec-457e-947b-1cc38030be7e
 
 
 ## Links
 
-- Aplicação no Streamlit - [App Folder](https://github.com/lizmarques/Virtual_Assistant_Project/tree/master/VoiceBotProject)
+- Aplicação no Streamlit - [App Folder](https://github.com/lizmarques/Multi_Agent_Platform_Project/tree/master/MultiAgentPlatform)
 
 ## Objetivo
 
