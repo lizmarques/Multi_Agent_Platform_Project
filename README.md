@@ -4,8 +4,7 @@
 
 ## Demonstração da plataforma
 
-https://user-images.githubusercontent.com/MultiAgentPlatform/v%C3%ADdeos/Multi_Agent_Platform_Demo.mp4
-
+https://github.com/lizmarques/Multi_Agent_Platform_Project/assets/90876339/dc103338-8dec-457e-947b-1cc38030be7e
 
 
 ## Links
